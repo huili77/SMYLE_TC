@@ -1,4 +1,4 @@
-# trak TCs from SMYLE hindcasts, Feb starts
+# trak TCs from SMYLE hindcasts, example for Feb starts
 
 #!/bin/bash -l
 
